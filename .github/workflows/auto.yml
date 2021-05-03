@@ -32,4 +32,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run 
         run: |
-          0.자동매매.py
+          python 0.자동매매.py
